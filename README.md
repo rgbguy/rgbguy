@@ -1,8 +1,8 @@
 ### Namaste 🙏 I am Sagar Kalbande. 
-
+---
 ## I'm a Graphics/Game Programmer 🎮
-
-### Connect with me:
+---
+## Connect with me:
 
 [<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="RGBguy | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -10,8 +10,8 @@
 [<img align="left" alt="RGBguy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="RGBguy | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-
-### 📕 Latest Blog Posts
+---
+## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Gamma Correction](https://medium.com/@rgbguy/gamma-correction-91f34a9a17e4)
