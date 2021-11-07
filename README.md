@@ -1,4 +1,4 @@
-## Namaste 🙏 I am Sagar Kalbande. 
+## Namaste 🙏 
 ---
 ### I'm a Graphics/Game Programmer 🎮
 ---
