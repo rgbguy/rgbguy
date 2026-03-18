@@ -26,7 +26,7 @@ In my earlier days I freelanced on Fiverr, building Unreal and Unity VR games an
 
 | Domain | Tools and APIs |
 |---|---|
-| Languages | C, C++, Java (Android) |
+| Languages | C, C++, Java (Android), Javascript |
 | Graphics APIs | OpenGL, OpenGL ES, WebGL, Vulkan, DirectX 11 |
 | Game Engines | Unreal Engine, Unity |
 | Scripting and Automation | Blender (Python) |
@@ -44,7 +44,7 @@ I've built multiple rendering engines from scratch:
 Currently deepening my work in:
 
 - Low-level C and C++ internals
-- x86 Assembly (repo on GitHub)
+- [x86 Assembly]
 - UNIX systems programming
 - Learning: Vulkan and Rust
 
@@ -52,7 +52,7 @@ Currently deepening my work in:
 
 ### Graphics Demos and Experiments
 
-Most of my projects live in private repos while I complete a class at **Astromedicomp**. They'll go public once it wraps.
+Most of my projects live in private repos while I complete a class at [Astromedicomp]. They'll go public once it wraps.
 
 Follow me on LinkedIn to check out demo videos of:
 
@@ -81,3 +81,5 @@ I create videos on math, graphics, and game development as **RGBguy**, with over
 [youtube]: https://www.youtube.com/c/RGBGuy
 [instagram]: https://www.instagram.com/rgbguy/
 [linkedin]: https://www.linkedin.com/in/sagarkalbande/
+[x86 Assembly]: https://github.com/rgbguy/Assembly101
+[Astromedicomp]: https://www.youtube.com/@AstroMediComp-Creations/videos 
