@@ -10,6 +10,29 @@ I love understanding things from first principles and deriving the math by hand 
 
 ---
 
+### Where I've Worked
+
+I've had the opportunity to work across research labs, unicorn startups, and product companies:
+
+- **Qualcomm XR Research** - tackling hard problems in extended reality at the hardware-software boundary
+- **ShareChat** - one of India's unicorns, working on graphics and visual systems at scale
+- Across these and other roles, I've worked on everything from mobile and web graphics SDKs to synthetic data generation pipelines, often alongside machine learning teams
+
+In my earlier days I freelanced on Fiverr, building Unreal and Unity VR games and apps for clients around the world. Earned a Level 1 Seller rating doing it.
+
+---
+
+### Tech Stack
+
+| Domain | Tools and APIs |
+|---|---|
+| Languages | C, C++, Java (Android) |
+| Graphics APIs | OpenGL, OpenGL ES, WebGL, Vulkan, DirectX 11 |
+| Game Engines | Unreal Engine, Unity |
+| Scripting and Automation | Blender (Python) |
+
+---
+
 ### What I'm Building
 
 I've built multiple rendering engines from scratch:
@@ -57,4 +80,4 @@ I create videos on math, graphics, and game development as **RGBguy**, with over
 [twitter]: https://twitter.com/rgbguy101
 [youtube]: https://www.youtube.com/c/RGBGuy
 [instagram]: https://www.instagram.com/rgbguy/
-[linkedin]: https://www.linkedin.com/in/rgbguy/
+[linkedin]: https://www.linkedin.com/in/sagarkalbande/
